@@ -1,3 +1,5 @@
 Welcome to my project :D
 
 First we want to add a cpp file to simulate a guessing number game!
+
+Now we want to add python code to say hello to user!
