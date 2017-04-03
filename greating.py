@@ -3,4 +3,3 @@ print ("Hello {}! :)".format(name))
 
 age = int(input("How old are you? "))
 print ("{} kiss for you ;) => {}".format(age, ":*"*age))
-
