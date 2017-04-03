@@ -1,0 +1,3 @@
+Welcome to my project :D
+
+First we want to add a cpp file to simulate a guessing number game!
